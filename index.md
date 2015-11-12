@@ -1,6 +1,6 @@
 ---
-title       : Poo
-subtitle    : poo2
+title       : R learning
+subtitle    : basics and more
 author      : talonendm
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -11,14 +11,15 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 github      :
     user: talonendm
-    repo: Rslidify
+    repo: R_learn
 ---
 
-## Read-And-Delete
+## Setting up - github stuff
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+1. slidify
+2. Git
+3. Write using R Markdown
+4. Use an empty line followed by three dashes to separate slides!
 
 --- .class #id 
 
